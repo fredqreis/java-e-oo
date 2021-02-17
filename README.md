@@ -1,3 +1,3 @@
-# java-e-oo
+# Java e Orientação a Objetos
 
-Utilizando Java e Orientação a Objetos, conforme o diagrama de classe com (Enumeração, Herança, Sobreposição, Classes abstratas, JavaBeans, Construtores).
+Utilizando (Enumeração, Herança, Sobreposição, Classes abstratas), conforme o diagrama de classe.
